@@ -5,7 +5,7 @@ Portfolio:
 
    Results: we analysed real financial data to see whether or not our model would be able to correctly predict if the loan would be returned in full. Visualisation included some histograms, jointplot, and countplot. We also converted a categorical variable. First, we trained one decision tree; next, a random forest model. Randm Forest performed (as expected) significantly better, with a very low level of Type I error.
 
-2. Logistic Regression with Python Project.ipynb
+2. [Logistic Regression with Python Project.ipynb](https://github.com/IulliaK/Machine-Learning/blob/main/Logistic%20Regression%20with%20Python%20Project.ipynb)
    
    Results: I used Logistic Regression to predict the class of a passenger on the Titanic - Survived or Deceased. Missing age values were imputed by using the mean age for the passenger class. I got satisfactory results which could be further improved by applying other ML models or working on a "Name" feature.
 
