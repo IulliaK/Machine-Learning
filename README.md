@@ -21,5 +21,9 @@ Study projects:
 3. [Support Vector Machines with Python.ipynb](https://github.com/IulliaK/Machine-Learning/blob/main/Support%20Vector%20Machines%20with%20Python.ipynb)
    
    Result: in this work, I took a built-in dataset - breast_cancer, and applied SVM to classify a tumor as malignant or bening. SVM got very good results - about 0.93, which was further enhanced with GridSearch, up to 0.94. To decide which model to use - with or without GreedSearch, a domain knowledge is required.
+
+4. Support Vector Machines Study Project.ipynb
+
+   Result: in this study notebook, I used a small iris dataset to showcase how SVM and GridSearch work. Because of the very small number of observations in the dataset, even without the GridSearch the results were almost perfect.
    
 
