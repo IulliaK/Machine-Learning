@@ -25,5 +25,8 @@ Study projects:
 4. [Support Vector Machines Study Project.ipynb](https://github.com/IulliaK/Machine-Learning/blob/main/Support%20Vector%20Machines%20Study%20Project.ipynb)
 
    Result: in this study notebook, I used a small iris dataset to showcase how SVM and GridSearch work. Because of the very small number of observations in the dataset, even without the GridSearch the results were almost perfect.
+
+5. [Linear Regression with Python.ipynb](https://github.com/IulliaK/Machine-Learning/blob/main/Linear%20Regression%20with%20Python.ipynb)
+   Result: we took a fake dataset to predict house prices based on some features. Since it is not real data, we cannot make serious conclusions. We did, however, showed the application of Linear Regression model and used three regression evaluation metrics - MAE, MSE, and RMSE. We also plotted residuals (they have normal distribution).
    
 
