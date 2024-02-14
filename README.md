@@ -27,6 +27,11 @@ Study projects:
    Result: in this study notebook, I used a small iris dataset to showcase how SVM and GridSearch work. Because of the very small number of observations in the dataset, even without the GridSearch the results were almost perfect.
 
 5. [Linear Regression with Python.ipynb](https://github.com/IulliaK/Machine-Learning/blob/main/Linear%20Regression%20with%20Python.ipynb)
+   
    Result: we took a fake dataset to predict house prices based on some features. Since it is not real data, we cannot make serious conclusions. We did, however, showed the application of Linear Regression model and used three regression evaluation metrics - MAE, MSE, and RMSE. We also plotted residuals (they have normal distribution).
+
+7. [Linear Regression Project.ipynb](https://github.com/IulliaK/Machine-Learning/blob/main/Linear%20Regression%20Project.ipynb)
+   
+   Result: we took a fake e-commerce dataset and analysed numerical variables to find out what influences the most our target variable - Yearly Amount Spent. We found out that one unit increase in length of membership leads to 61$ increase in spendings. We also found out that the company should focus more on their app rather than their website, since app brings more profit. We used jointplots and a pairplot to visualise findings. Linear Regression was applied to predict Yearly Amount Spent, and the following metrics were used to evaluate performance: MAE, MSE, RMSE, R Squared. R Suared is 0.99 - due to the the fact that data is artificial. We also plotted residuals to make sure they have approximately normal distribution.
    
 
